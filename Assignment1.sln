@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment1", "Assignment1\Assignment1.csproj", "{BC371681-66ED-465E-9453-974501FDF57D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringConcatenationLibrary", "StringConcatenationLibrary\StringConcatenationLibrary.csproj", "{ACBC6B0D-4C1C-485B-8EBC-B9C9F3D23F74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC371681-66ED-465E-9453-974501FDF57D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC371681-66ED-465E-9453-974501FDF57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC371681-66ED-465E-9453-974501FDF57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC371681-66ED-465E-9453-974501FDF57D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACBC6B0D-4C1C-485B-8EBC-B9C9F3D23F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACBC6B0D-4C1C-485B-8EBC-B9C9F3D23F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACBC6B0D-4C1C-485B-8EBC-B9C9F3D23F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACBC6B0D-4C1C-485B-8EBC-B9C9F3D23F74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2AAAF3E-E7FF-4360-94F0-855AC1264A94}
+	EndGlobalSection
+EndGlobal
